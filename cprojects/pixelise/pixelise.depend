@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478705843 source:/home/alph/cprojects/pixelise/main.cpp
+	<iostream>
+	"opencv/cv.h"
+	"opencv/highgui.h"
+

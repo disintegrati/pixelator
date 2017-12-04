@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479829193 source:/home/nuc/cprojects/pixelcam/pixel/main.cpp
+	<iostream>
+	"opencv/cv.h"
+	"opencv/highgui.h"
+
